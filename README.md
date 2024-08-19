@@ -93,6 +93,7 @@ A API retorna um JSON contendo os produtos Lenovo, ordenados do mais barato para
 
 Para garantir que tudo estava funcionando conforme o esperado, implementei uma funcionalidade que exibe os produtos diretamente no terminal, de forma organizada, como mostrado abaixo:
 
+```bash
 Produto 1:
 Título: Lenovo V145-15AST
 Preço: $299.99
@@ -107,6 +108,6 @@ Descrição: Description of the Lenovo ThinkPad E14.
 Reviews: 25
 Classificação: 4.5 estrelas
 -----------------------------------------------------
-
+```
 
 
