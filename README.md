@@ -86,7 +86,7 @@ A API retorna um JSON contendo os produtos Lenovo, ordenados do mais barato para
     "rating": "4.5"
   }
 ]
-
+```
 
 
 ### Confirmação
